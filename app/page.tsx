@@ -314,7 +314,7 @@ export default function Home() {
                   />
                   <div className="bg-sekolah-green text-white p-5 text-center">
                     <h3 className="font-bold text-lg">
-                      KH. Bubung Nizar, S.Pd.I.
+                      Asep Rizal Asy'ari, S.Pd.
                     </h3>
                     <p className="text-sekolah-goldLight text-sm">
                       Kepala Madrasah MTs Al Mukhtariyah
