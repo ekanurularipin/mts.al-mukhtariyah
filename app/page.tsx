@@ -141,7 +141,7 @@ export default function Home() {
                 Berita
               </a>
               <a
-                href="https://ponpes-mukhtariyah.emergent.host/login"
+                href="https://adminalmukhtariyah.vercel.app/auth/login"
                 className="bg-sekolah-green hover:bg-sekolah-greenDark text-white px-5 py-2.5 rounded-full transition shadow-md shadow-sekolah-green/20"
               >
                 Login
